@@ -1,6 +1,9 @@
 package com.example.technoshop.Entities;
 
+import com.google.firebase.firestore.DocumentId;
+
 public class Product {
+    @DocumentId
     private String productID;
     private String name;
     private String description;

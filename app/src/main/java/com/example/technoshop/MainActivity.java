@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
         mainBinding.rvProduct.setHasFixedSize(true);
         mainBinding.rvProduct.setLayoutManager(new LinearLayoutManager(this));
         mainBinding.rvProduct.setAdapter(productAdapter);
+        getProduct();
     }
 
     public void getProduct(){
