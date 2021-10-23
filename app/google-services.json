@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "730504326796",
+    "project_id": "marianaquinteromoviles2",
+    "storage_bucket": "marianaquinteromoviles2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730504326796:android:8b3b2d10e9c292483d55a9",
+        "android_client_info": {
+          "package_name": "com.example.sep11movilesii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730504326796-oa2ar370ddserauerlg1hgiepfgp2bvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtMihRS7tOK-hh1miD-crU2zowmO4wqWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730504326796-oa2ar370ddserauerlg1hgiepfgp2bvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730504326796:android:e10877ab88aeb57f3d55a9",
+        "android_client_info": {
+          "package_name": "com.example.technoshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730504326796-oa2ar370ddserauerlg1hgiepfgp2bvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtMihRS7tOK-hh1miD-crU2zowmO4wqWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730504326796-oa2ar370ddserauerlg1hgiepfgp2bvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

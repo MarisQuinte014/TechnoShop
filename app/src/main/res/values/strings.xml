@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TechnoShop</string>
+    <string name="btnEdit">Editar</string>
+    <string name="btnDelete">Eliminar</string>
+</resources>
